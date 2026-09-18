@@ -1,0 +1,9 @@
+{
+  "namespace": "neocor",
+  "name": "CartographyTableMapRestrict",
+  "description": "Hides the minimap and the map keybind. The world map can only be opened by using a cartography table. Rebuilt for Valheim 1.0.x.",
+  "version_number": "0.5.0",
+  "dependencies": [],
+  "website_url": "https://github.com/NeocorDK/CartographyTableMapRestrict",
+  "FullName": "Neocor-CartographyTableMapRestrict"
+}

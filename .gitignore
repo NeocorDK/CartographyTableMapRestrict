@@ -1,0 +1,16 @@
+# build output
+dist/
+bin/
+obj/
+
+# generated copies inside the package staging dir
+# (icon.png and manifest.json are sources and ARE tracked)
+package/stage/plugins/
+package/stage/README.md
+
+# editor / OS
+.vs/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
